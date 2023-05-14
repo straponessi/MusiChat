@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "439109530694",
+    "project_id": "musichat-ed84b",
+    "storage_bucket": "musichat-ed84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439109530694:android:357a33085a9b8204050647",
+        "android_client_info": {
+          "package_name": "com.android.musichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439109530694-eure65rh5i05o5jglk7pim4a70dr6k0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.musichat",
+            "certificate_hash": "1df2865864c2da5c9417f80c481e3c87c77adfdd"
+          }
+        },
+        {
+          "client_id": "439109530694-afqi7hoddefai60187g2rj77jfq4s750.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1SMEgwGcodA4a7XeXdaLEHZdz80zrAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439109530694-afqi7hoddefai60187g2rj77jfq4s750.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
